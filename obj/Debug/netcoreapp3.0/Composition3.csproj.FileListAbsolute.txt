@@ -1,0 +1,11 @@
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\bin\Debug\netcoreapp3.0\Composition3.exe
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\bin\Debug\netcoreapp3.0\Composition3.deps.json
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\bin\Debug\netcoreapp3.0\Composition3.runtimeconfig.json
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\bin\Debug\netcoreapp3.0\Composition3.runtimeconfig.dev.json
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\bin\Debug\netcoreapp3.0\Composition3.dll
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\bin\Debug\netcoreapp3.0\Composition3.pdb
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\obj\Debug\netcoreapp3.0\Composition3.csprojAssemblyReference.cache
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\obj\Debug\netcoreapp3.0\Composition3.AssemblyInfoInputs.cache
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\obj\Debug\netcoreapp3.0\Composition3.AssemblyInfo.cs
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\obj\Debug\netcoreapp3.0\Composition3.dll
+C:\Windows\Temp\ws-visualStudio\Composition3\Composition3\obj\Debug\netcoreapp3.0\Composition3.pdb
